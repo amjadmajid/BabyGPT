@@ -27,6 +27,6 @@ This is a transformer-based, 152M parameters language model (SLM) that is being 
 ```
 
 ## Training Progress 
-The training logs can be accessed [HERE]("https://github.com/amjadmajid/BabyGPT/blob/main/log.txt") and the training progress can be seen below
+The training logs can be accessed [HERE](https://github.com/amjadmajid/BabyGPT/blob/main/log.txt) and the training progress can be seen below
 <img src="images/babygpt_training_loss.png"> 
 
